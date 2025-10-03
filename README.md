@@ -66,7 +66,7 @@ I build **data-driven models, dashboards, and optimizations** that deliver measu
 Here are some of my live GitHub repositories:
 
 [![sqlportforlio](https://github-readme-stats.vercel.app/api/pin/?username=EngineerMachoka&repo=sqlportforlio&theme=transparent)](https://github.com/EngineerMachoka/sqlportforlio)  
-[![PowerPI-Portfolio-Project](https://github-readme-stats.vercel.app/api/pin/?username=EngineerMachoka&repo=PowerPI-Portfolio-Project&theme=transparent)](https://github.com/EngineerMachoka/PowerPI-Portfolio-Project)  
+[![PowerPI-Portfolio-Project](https://github-readme-stats.vercel.app/api/pin/?username=EngineerMachoka&repo=PowerBI-Portfolio-Project&theme=transparent)](https://github.com/EngineerMachoka/PowerPI-Portfolio-Project)  
 [![Data-Visualization-Projects](https://github-readme-stats.vercel.app/api/pin/?username=EngineerMachoka&repo=Data-Visualization-Projects&theme=transparent)](https://github.com/EngineerMachoka/Data-Visualization-Projects)  
 [![gdp-dashboard](https://github-readme-stats.vercel.app/api/pin/?username=EngineerMachoka&repo=gdp-dashboard&theme=transparent)](https://github.com/EngineerMachoka/gdp-dashboard)  
 
